@@ -1,4 +1,4 @@
 print('hello')
-print('yanapat nontarit')
+print('Yanapat Nontarit')
 print('19')
 print('Aom')
