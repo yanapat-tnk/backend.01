@@ -1,4 +1,7 @@
 print('hello')
 print('Yanapat Nontarit')
-print('19')
 print('Aom')
+print('19')
+print('3')
+print('67319010044')
+print('play with mycat')
