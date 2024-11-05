@@ -1,5 +1,5 @@
 import random
-print ('โปรแกรมเป้งฉุบ')
+print ('โปรแกรมเป่ายิงฉุบ')
 while True :
     a = random.choice(["ค้อน","กรรไกร","กระดาษ"])
     print(a)
