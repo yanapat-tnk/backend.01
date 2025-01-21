@@ -3,7 +3,7 @@ print ('โปรแกรมเป่ายิงฉุบ')
 while True :
     a = random.choice(["ค้อน","กรรไกร","กระดาษ"])
     print(a)
-    b= str(input('ระบุคำตอบของคุณ : '))
+    b = str(input('ระบุคำตอบของคุณ : '))
     if b == a :
         print('เสมอ')
     elif a =="กรรไกร" and b =="ค้อน":
